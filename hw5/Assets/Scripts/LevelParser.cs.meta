@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f23cb6c119d8d014baf7f2a83e0570ad
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - levelFile: {fileID: 4900000, guid: b7e2bcbc2b1fb124ba4b7a0ac7d343a2, type: 3}
+  - brickPrefab: {fileID: 1507426990881010969, guid: 962898cbc3d9ed649b7a54a9a408f125, type: 3}
+  - questionBlockPrefab: {fileID: 9166230116066908815, guid: e62038c0504cf124bb51628b480df8f0, type: 3}
+  - groundPrefab: {instanceID: 0}
+  - goombaPrefab: {instanceID: 0}
+  - waterPrefab: {instanceID: 0}
+  - goalPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
